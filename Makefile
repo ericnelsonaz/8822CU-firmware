@@ -1,4 +1,4 @@
-FW_DIR	:= /lib/firmware
+FW_DIR	?= /lib/firmware
 FW_NAME := rtl8822cu_fw
 CFG_NAME := rtl8822cu_config
 
